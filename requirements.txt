@@ -23,6 +23,7 @@ cloud-init==0.7.5
 colorama==0.2.5
 configobj==4.7.2
 decorator==3.4.0
+funcsigs==1.0.2
 html5lib==0.999
 httplib2==0.8
 ipython==1.2.1
@@ -33,7 +34,9 @@ keyring==3.5
 launchpadlib==1.10.2
 lazr.restfulclient==0.13.3
 lazr.uri==1.0.3
+mock==2.0.0
 oauth==1.0.1
+pbr==3.0.0
 pexpect==3.1
 prettytable==0.7.2
 psycopg2==2.6.1
@@ -44,12 +47,13 @@ pygobject==3.12.0
 pyserial==2.6
 python-apt==0.9.3.5ubuntu2
 python-debian==0.1.21-nmu2ubuntu2
+redis==2.10.5
 requests==2.2.1
 requirements==0.1
 simplegeneric==0.8.1
 simplejson==3.3.1
 singledispatch==3.4.0.3
-six==1.5.2
+six==1.10.0
 ssh-import-id==3.21
 tornado==4.5.1
 urllib3==1.7.1
